@@ -25,7 +25,8 @@ set -e
 #                                                                                    #
 # This script is not associated with the official Pterodactyl Project.               #
 # https://github.com/pterodactyl-installer/pterodactyl-installer                     #
-#                                                                                    #
+# ⚠️⚠️⚠️YOU ARE REQUIRED TO DO A PORT CHANGE AFTER INSTALLATION COMPLETES          #
+# nano /etc/nginx/sites-available/pterodactyl.conf ⚠️⚠️⚠️                          #
 ######################################################################################
 
 # Check if script is loaded, load if not or fail otherwise.
