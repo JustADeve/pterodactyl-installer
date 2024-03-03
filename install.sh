@@ -3,7 +3,7 @@
 set -e
 
 ######################################################################################
-#                                                                                    #
+#                     ETRIXNODES ADJUSTED INSTALLER                                  #
 # Project 'pterodactyl-installer'                                                    #
 #                                                                                    #
 # Copyright (C) 2018 - 2024, Vilhelm Prytz, <vilhelm@prytznet.se>                    #
